@@ -1,0 +1,139 @@
+body{
+margin-top: 0%;
+margin-left:50px ;
+margin-right:50px; 
+margin-bottom:0px ;
+background-color: yellow;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.a5{
+text-align: center;
+background-color:beige;
+}
+
+a.hover{
+color:white;
+
+
+
+}
+#b1{
+background-color: rgba(250, 215, 232, 0);
+color:black;
+
+
+}
+
+
+nav{
+text-align: center;
+color: beige;
+padding: 10px;
+font-size:1.2em;
+margin-right: 5%;
+padding-bottom: 5px;
+}
+.a{
+text-decoration: none;
+color: #fff;
+font-weight: bolder;
+text-shadow: 2px 2px 3px black;
+
+}
+.a :hover{
+color: #fff;
+text-shadow: 2px 2px 3px black;
+
+
+}
+figcaption{
+text-decoration: none;
+color: #fff;
+font-weight: bolder;
+text-shadow: 2px 2px 3px black;   
+}
+
+figcaption :hover{
+color: blueviolet;
+text-shadow: 2px 2px 3px rgba(0, 0, 255, 0);
+background-color:red;
+border-radius: 15px;
+}
+
+
+h1{
+font-size: larger;  
+text-align: center;
+background-color:white;
+color: red;
+padding: 10px;
+
+}
+
+h5{
+font-size: larger;
+text-align: center;
+color: red;
+background-color: aliceblue;
+padding:10px ;
+
+
+}
+h4{
+color: red;
+text-align: center;
+
+
+}
+
+
+
+.pizza1{
+border-radius: 20px 20px 20px 20px;
+width: 30%;
+height: 10%;
+border: solid;
+}
+.pizza2{
+border-radius:20px 20px 20px 20px; ;
+width: 30%;
+height: 10%;
+border: solid;
+}
+.pizza3{
+border-radius:20px 20px 20px 20px; 
+width: 30%;
+height: 10%;
+border: solid;
+}
+#a1{
+text-align: center;
+}
+#b2{
+text-align:center ;
+}
+#c3{
+text-align:center ;
+}
+
+#compras{
+background-color: azure;
+width:120px ;
+height: 120px;
+border: solid gold;
+right: 0;
+text-align: center;
+}
+
+footer{
+background-color: blue;
+color:black;
+padding: 10px;
+}
+#titulo1{
+text-decoration: nome;
+background-color: black;
+border-radius: inherit;
+
+}
